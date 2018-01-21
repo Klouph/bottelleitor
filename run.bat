@@ -1,0 +1,3 @@
+echo Initializing bot...
+luvit bot/bot.lua
+pause
