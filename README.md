@@ -1,2 +1,2 @@
 # bottelleitor
-A discord bot using discord.py library
+A discord bot using discordia library
